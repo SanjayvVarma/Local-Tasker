@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Local-Tasker/static/css/main.ac252fd3.css",
+    "main.js": "/Local-Tasker/static/js/main.9c2fd85c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Local-Tasker/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Local-Tasker/index.html",
+    "main.ac252fd3.css.map": "/Local-Tasker/static/css/main.ac252fd3.css.map",
+    "main.9c2fd85c.js.map": "/Local-Tasker/static/js/main.9c2fd85c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Local-Tasker/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac252fd3.css",
+    "static/js/main.9c2fd85c.js"
+  ]
+}
